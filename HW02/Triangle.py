@@ -1,4 +1,6 @@
-
+""" Author :Amisha Patel
+    Date : 02/16/2021
+    Assignment : Classify Triagnle"""
 def classifyTriangle(a,b,c):
     # require that the input values be >= 0 and <= 200
     if a > 200 or b > 200 or c > 200:
